@@ -1,4 +1,4 @@
-import Image from 'next/image'
+
 
 import { Border } from '@/components/Border'
 import { ContactSection } from '@/components/ContactSection'
