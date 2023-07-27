@@ -1,7 +1,7 @@
 import Link from 'next/link'
 
 import { Container } from '@/components/Container'
-import { FadeIn } from '@/components/FadeIn'
+import { FadeInd } from '@/components/FadeIn'
 
 export default function NotFound() {
   return (
